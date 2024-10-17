@@ -6,7 +6,6 @@ During my internship at CRR Associates, I had the opportunity to work on various
 - **Data Visualization**: Created insightful and interactive dashboards using Power BI and Tableau to visualize key metrics and trends, aiding in data-driven decision-making.
 - **Statistical Analysis**: Conducted statistical analyses to identify patterns, correlations, and trends within the data, providing actionable insights to the team.
 - **Reporting**: Generated comprehensive reports and presentations to communicate findings and recommendations to stakeholders.
-- **Collaboration**: Worked closely with cross-functional teams, including marketing, finance, and operations, to understand their data needs and deliver tailored solutions.
 - **Tools and Technologies**: Gained hands-on experience with tools such as R, Excel, Power BI, and Tableau.
 
 This internship has been instrumental in developing my data analysis skills and has prepared me for future challenges in the field of data analytics.
